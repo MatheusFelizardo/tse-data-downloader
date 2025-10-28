@@ -89,5 +89,6 @@ O código deste repositório é distribuído sob a **licença MIT** — uso livr
 **Matheus Felizardo**  
 Criação e desenvolvimento da pipeline de consolidação de dados eleitorais.  
 📅 Última atualização: **28 de outubro de 2025**
+🤖 Scripts criados com auxílio de IA (OpenAI)
 
 > “Transparência e dados abertos são pilares da democracia.”
